@@ -2,8 +2,8 @@
 	"storeInfo": {
 		"name": "Store name",
 		"author": "StackZ",
-		"shortDesc": "",
-		"description": "",
+		"shortDesc": "Example of a Store.",
+		"description": "Example of a Store by StackZ.",
 		"barColor": "#395472",
 		"bgBottomColor": "#262C4D",
 		"bgTopColor": "#60A8C0",
@@ -14,7 +14,7 @@
 	},
 	"Universal-Updater (Nightly)": {
 		"info": {
-			"version": "1.0.0",
+			"version": "2.1.0",
 			"author": "Universal-Team",
 			"description": "A universally good updater!",
 			"fileSize": 1680320
