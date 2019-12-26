@@ -1,0 +1,29 @@
+{
+	"storeInfo": {
+		"name": "Store name",
+		"author": "StackZ",
+		"shortDesc": "",
+		"description": "",
+		"barColor": "#395472",
+		"bgBottomColor": "#262C4D",
+		"bgTopColor": "#60A8C0",
+		"textColor": "#FFFFFF",
+		"selectedColor": "#78C0D8",
+		"unselectedColor": "#4D7684",
+		"version": 0
+	},
+	"Universal-Updater (Nightly)": {
+		"info": {
+			"version": "1.0.0",
+			"author": "Universal-Team",
+			"description": "A universally good updater!",
+			"fileSize": 1680320
+		},
+		"script": [{
+			"type": "downloadFile",
+			"file": "https://github.com/Universal-Team/extras/raw/master/builds/Universal-Updater/Universal-Updater.3dsx",
+			"output": "sdmc:/3ds/Universal-Updater.3dsx",
+			"message": "Downloading Universal-Updater..."
+		}]
+	}
+}
