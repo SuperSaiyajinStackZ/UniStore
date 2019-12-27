@@ -1,0 +1,32 @@
+{
+	"storeInfo": {
+		"title": "Store name",
+		"author": "StackZ",
+		"url": "https://github.com/SuperSaiyajinStackZ/UniStore/raw/master/examples/Spritesheet/example-store.unistore",
+		"file": "example-store.unistore",
+		"sheet": "sdmc:/3ds/Universal-Updater/stores/example-store.t3x",
+		"description": "Example of a Store by StackZ.",
+		"barColor": "#395472",
+		"bgBottomColor": "#262C4D",
+		"bgTopColor": "#60A8C0",
+		"textColor": "#FFFFFF",
+		"selectedColor": "#78C0D8",
+		"unselectedColor": "#4D7684",
+		"version": 0
+	},
+	"Universal-Updater (Nightly)": {
+		"info": {
+			"version": "2.1.0",
+			"author": "Universal-Team",
+			"description": "A universally good updater!",
+			"iconIndex": 0,
+			"fileSize": 1680320
+		},
+		"script": [{
+			"type": "downloadFile",
+			"file": "https://github.com/Universal-Team/extras/raw/master/builds/Universal-Updater/Universal-Updater.3dsx",
+			"output": "sdmc:/3ds/Universal-Updater.3dsx",
+			"message": "Downloading Universal-Updater..."
+		}]
+	}
+}
