@@ -2,9 +2,10 @@
 	"storeInfo": {
 		"title": "Store name",
 		"author": "StackZ",
-		"url": "https://github.com/SuperSaiyajinStackZ/UniStore/raw/master/examples/Spritesheet/example-store.unistore",
-		"file": "example-store.unistore",
+		"url": "https://github.com/SuperSaiyajinStackZ/UniStore/raw/master/examples/spritesheet/example-store.unistore",
+		"file": "sdmc:/3ds/Universal-Updater/stores/example-store.unistore",
 		"sheet": "sdmc:/3ds/Universal-Updater/stores/example-store.t3x",
+		"sheetURL": "https://github.com/SuperSaiyajinStackZ/UniStore/raw/master/examples/spritesheet/example-store.t3x",
 		"description": "Example of a Store by StackZ.",
 		"barColor": "#395472",
 		"bgBottomColor": "#262C4D",

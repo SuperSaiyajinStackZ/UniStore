@@ -7,8 +7,9 @@ What the following things do?
 - title: Title of the store. For example app store name.
 - author: name of the author of the store.
 - url: URL to the store file, so you can update it within Universal-Updater.
-- file: Filename of the store. (I suggest keeping that the same name of the store, so you have a static filename.)
+- file: Fullpath to the store file.
 - sheet: [Optional] for a Spritesheet with Icons. Put the path to the `.t3x` file there.
+- sheetURL: [Optional] URL to the SpriteSheet.
 - description: Description of the store.
 - version: Not used yet.
 
