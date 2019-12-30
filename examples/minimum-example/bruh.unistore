@@ -1,0 +1,29 @@
+{
+	"storeInfo": {
+		"title": "Bruh",
+		"author": "Bruh",
+		"description": "Bruh",
+		"barColor": "#395472",
+		"bgBottomColor": "#262C4D",
+		"bgTopColor": "#60A8C0",
+		"textColor": "#FFFFFF",
+		"selectedColor": "#78C0D8",
+		"unselectedColor": "#4D7684",
+		"version": 0
+	},
+	"Bruh": {
+		"info": {
+			"version": "Bruh",
+			"author": "Bruh",
+			"description": "Biggest Bruh",
+			"fileSize": 0
+		},
+		"script": [{
+			"type": "Bruh",
+			"repo": "Bruh",
+			"file": "Bruh",
+			"output": "Bruh",
+			"message": "Bruh"
+		}]
+	}
+}
